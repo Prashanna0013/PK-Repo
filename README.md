@@ -1,3 +1,3 @@
-# Git Collaboration Game - 2 Peson Activity
+# Git Collaboration Game - 2 Person Activity
 
-## This repository is a 
+### This repository is a ## hands-on Git learning activity 
