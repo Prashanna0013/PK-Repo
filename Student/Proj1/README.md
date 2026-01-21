@@ -17,7 +17,10 @@ short description
 - Springboot
 
 ## Installation 
-'''bash
+```bash
+
 git clone https://github.com/Prashanna0013/PK-Repo.git
 cd PK-Repo
 npm install
+
+---
